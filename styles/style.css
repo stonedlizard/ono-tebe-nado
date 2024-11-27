@@ -139,7 +139,7 @@
     justify-content: space-between;
 }
 
-.lots__card-list-item{
+.lots__card-list-item {
     position: relative;
     text-decoration: none;
     list-style: none;
@@ -195,7 +195,6 @@
     bottom: 48px;
     font-family: 'Raleway';
     font-size: 20px;
-    color: #FFFFFF;
     justify-self: baseline;
 }
 
