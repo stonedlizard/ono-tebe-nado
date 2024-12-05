@@ -141,7 +141,7 @@
 }
 
 .lots {
-    margin: 184px 11px 141px 37px;
+    margin: 184px 24px 141px;
 }
 
 .lots__heading {
@@ -271,7 +271,7 @@
 }
 
 .footer {
-    padding: 0px 50px;
+    margin: 0px 50px 88px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: space-between;
